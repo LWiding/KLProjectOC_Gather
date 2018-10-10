@@ -1,0 +1,8 @@
+*.xcconfig
+.DS_Store
+*/build/*
+*.pbxuser
+xcuserdata/
+DerivedData
+*/xcshareddata/*
+*/xcuserdata/*
